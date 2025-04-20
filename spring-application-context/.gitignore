@@ -18,7 +18,6 @@ Thumbs.db
 /.classpath
 /.project
 /.settings/
-/target/
 
 # VS Code
 /.vscode/
@@ -35,7 +34,6 @@ Thumbs.db
 *.swp
 
 # Java-specific files
-*.log
 *.ctxt
 hs_err_pid*
 replay_pid*
